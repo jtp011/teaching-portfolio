@@ -1,4 +1,5 @@
-# My Teaching Portfolio
+
+# Joshua Pham's Teaching Portfolio
 
 
 
